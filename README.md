@@ -13,15 +13,10 @@ Features
 - Store and manage passwords securely
 
 Usage
-
-1. Create an account
-2. Store your passwords
-3. ...
-
-Contributing
-
-- Report issues: (link unavailable)
-- Submit pull requests: (link unavailable)
+1. Store your passwords
+2. Edit your saved password
+3. Delete your password
+4. Copy your password
 
 Acknowledgments
 
